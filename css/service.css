@@ -1,0 +1,23 @@
+.team-member h3 {
+    color: black;
+    margin-bottom: 0;
+    font-size: 20px;
+}
+
+.team-member .social-icons a {
+    background: #2E4272;
+    color: #fff;
+    padding: 4px 8px;
+    display: inline-block;
+    font-size: 30px;
+    align: center;
+}
+
+.global-page-header {
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 120px 0 25px 0;
+    position: relative;
+    background: #2E4272;
+    color: #fff;
+}
