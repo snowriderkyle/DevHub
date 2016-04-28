@@ -4,6 +4,16 @@
     font-size: 20px;
 }
 
+.team_name{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.team_text:{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
 .team-member .social-icons a {
     background: #2E4272;
     color: #fff;
@@ -11,19 +21,11 @@
     display: inline-block;
     font-size: 30px;
     margin: 0 auto;
-    border-top: 1px solid black;
-}
-
-.global-page-header {
-    background-attachment: fixed;
-    background-size: cover;
-    padding: 120px 0 25px 0;
-    position: relative;
-    background: #2E4272;
-    color: #fff;
+    border-bottom: 1px solid black;
 }
 
 .col-md-3{
+	margin-top: 3px;
 	border: 1px solid black;
 	border-radius: 1%;
 }
