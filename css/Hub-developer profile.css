@@ -2,6 +2,7 @@
     color: black;
     margin-bottom: 0;
     font-size: 20px;
+    padding: 70;
 }
 
 .team_name{
@@ -10,7 +11,7 @@
 }
 
 .team_text:{
-	border-top: 1px solid black;
+	border-top: 7px solid black;
 	border-bottom: 1px solid black;
 }
 
@@ -20,12 +21,15 @@
     padding: 4px 8px;
     display: inline-block;
     font-size: 30px;
-    margin: 0 auto;
-    border-bottom: 1px solid black;
 }
 
-.col-md-3{
-	margin-top: 3px;
+.team-member .social-icons{
+    margin-left: auto;
+}
+
+.col-md-4{
+	margin: 0 auto;
+    margin-top:20px;
 	border: 1px solid black;
 	border-radius: 1%;
 }
