@@ -494,31 +494,7 @@ figure figcaption p {
   height: 350px;
   background-color: #CCC;
 }
-#footer {
-  background: #fff;
-  padding: 25px 0;
-  color: #555;
-}
-#footer .copyright {
-  font-size: 13px;
-  margin-bottom: 0;
-  margin-top: 10px;
-}
-#footer .copyright a {
-  color: #02bdd5;
-}
-#footer .social {
-  text-align: right;
-  margin-bottom: 0;
-}
-#footer .social li {
-  display: inline-block;
-  margin-right: 15px;
-}
-#footer .social li a {
-  font-size: 22px;
-  color: #02bdd5;
-}
+
 .cd-headline.slide .cd-words-wrapper {
   color: #02bdd5;
 }
@@ -1084,4 +1060,26 @@ article {
   padding: 8px 0;
   color: #fff;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+@media screen and (max-width: 1425px) {
+  .block {
+    min-height: 400px;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .block {
+    min-height: 470px;
+  }
+}
+@media screen and (max-width: 775px) {
+  .block {
+    min-height: 700px;
+  }
+
+}
+@media screen and (max-width: 610px) {
+  .block.wow {
+      width: 100%;
+      min-height: 200px;
+  }
 }
