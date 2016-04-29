@@ -1,0 +1,35 @@
+.team-member h3 {
+    color: black;
+    margin-bottom: 0;
+    font-size: 20px;
+    padding: 70;
+}
+
+.team_name{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.team_text:{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.team-member .social-icons a {
+    background: #2E4272;
+    color: #fff;
+    padding: 4px 8px;
+    display: inline-block;
+    font-size: 30px;
+}
+
+.team-member .social-icons{
+    margin-left: 30%;
+}
+
+.col-md-4{
+	margin-top: 3px;
+	border: 1px solid black;
+	border-radius: 1%;
+}
+
