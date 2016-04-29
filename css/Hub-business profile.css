@@ -2,16 +2,17 @@
     color: black;
     margin-bottom: 0;
     font-size: 20px;
+    padding: 70;
 }
 
 .team_name{
-	border-top: 1px solid black;
-	border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
 }
 
 .team_text:{
-	border-top: 1px solid black;
-	border-bottom: 1px solid black;
+    border-top: 7px solid black;
+    border-bottom: 1px solid black;
 }
 
 .team-member .social-icons a {
@@ -20,13 +21,15 @@
     padding: 4px 8px;
     display: inline-block;
     font-size: 30px;
+}
+
+.team-member .social-icons{
+    margin-left: auto;
+}
+
+.col-md-6{
     margin: 0 auto;
-    border-bottom: 1px solid black;
+    margin-top:20px;
+    border: 1px solid black;
+    border-radius: 1%;
 }
-
-.col-md-3{
-	margin-top: 3px;
-	border: 1px solid black;
-	border-radius: 1%;
-}
-
