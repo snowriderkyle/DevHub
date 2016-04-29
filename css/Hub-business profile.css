@@ -33,3 +33,13 @@
     border: 1px solid black;
     border-radius: 1%;
 }
+
+img.logo {
+  width: 150px;
+
+  position: absolute;
+  top: -25px;
+  left:80px;
+  color: blue;  
+
+}
